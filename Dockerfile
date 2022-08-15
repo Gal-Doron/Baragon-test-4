@@ -1,4 +1,4 @@
-FROM java:8u45-jre
+FROM java:8-jre
 MAINTAINER HubSpot <paas@hubspot.com>
 
 # Used to build hubspot/baragonagentbase image
