@@ -62,7 +62,7 @@
     "reselect": "^2.5.1",
     "select2": "~3.5.1",
     "typeahead.js": "~0.10.4",
-    "underscore": "~1.8.0",
+    "underscore": "~1.13.0",
     "uuid": "^3.0.0",
     "vex-js": "git://github.com/HubSpot/vex.git#v2.3.0-plus-beforeClose-hook"
   },
