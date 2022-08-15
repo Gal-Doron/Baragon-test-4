@@ -47,7 +47,7 @@
     <dep.jersey2.version>2.25.1</dep.jersey2.version>
     <dep.jetty.version>9.4.18.v20190429</dep.jetty.version>
     <dep.joda.version>2.10.1</dep.joda.version>
-    <dep.junit-jupiter.version>5.5.0</dep.junit-jupiter.version>
+    <dep.junit-jupiter.version>5.9.0</dep.junit-jupiter.version>
     <dep.logback.version>1.2.3</dep.logback.version>
     <dep.netty.version>4.1.27.Final</dep.netty.version>
     <dep.netty3.version>3.10.6.Final</dep.netty3.version>
