@@ -9,7 +9,7 @@ services:
     expose:
       - 2181
   service:
-    image: hubspot/baragonservice:0.4.0
+    image: hubspot/baragonservice:0.8.0
     network_mode: host
     environment:
       DOCKER_HOST:
