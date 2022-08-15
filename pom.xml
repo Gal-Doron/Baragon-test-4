@@ -41,7 +41,7 @@
     <dep.httpclient.version>4.5.5</dep.httpclient.version>
     <dep.httpcore.version>4.4.9</dep.httpcore.version>
     <dep.jackson-databind.version>2.9.9</dep.jackson-databind.version>
-    <dep.jackson.version>2.9.9</dep.jackson.version>
+    <dep.jackson.version>2.13.3</dep.jackson.version>
     <dep.javassist.version>3.24.1-GA</dep.javassist.version>
     <dep.jboss-logging.version>3.3.0.Final</dep.jboss-logging.version>
     <dep.jersey2.version>2.25.1</dep.jersey2.version>
