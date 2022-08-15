@@ -103,7 +103,7 @@
     "resolve-url-loader": "^1.6.0",
     "sass-loader": "^4.0.0",
     "streamqueue": "^1.1.1",
-    "style-loader": "^0.13.1",
+    "style-loader": "^0.23.0",
     "stylus": "^0.54.5",
     "stylus-loader": "^2.1.1",
     "url-loader": "^0.5.7",
