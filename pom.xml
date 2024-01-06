@@ -32,7 +32,7 @@
     <dep.commons-collections4.version>4.2</dep.commons-collections4.version>
     <dep.commons-lang3.version>3.9</dep.commons-lang3.version>
     <dep.curator.version>4.2.0</dep.curator.version>
-    <dep.dropwizard-metrics.version>4.0.5</dep.dropwizard-metrics.version>
+    <dep.dropwizard-metrics.version>4.2.20</dep.dropwizard-metrics.version>
     <dep.findbugs.jsr.version>3.0.2</dep.findbugs.jsr.version>
     <dep.google.clients.version>1.25.0</dep.google.clients.version>
     <dep.guava.version>25.0-jre</dep.guava.version>
